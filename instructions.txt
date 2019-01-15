@@ -1,4 +1,8 @@
 bla bla bla
 
+<<<<<<< HEAD
 
 Local update
+=======
+Please!!!!
+>>>>>>> 5037f0b64baba6680fc3043fd0af3aad028a89d5
